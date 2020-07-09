@@ -1,0 +1,103 @@
+/*****structure*****/
+body {
+  font-family: 'Patrick Hand';
+  width: auto;
+  height: auto;
+  background: #20202c;
+  color: #F0F8FF;
+  overflow: auto;
+  display: inline-block;
+
+}
+h2 {
+  font-size: 40px;
+}
+h3 {
+  font-size: 35px;
+}
+
+/******header*****/
+header {
+  background: url("../img/hero-background.png") no-repeat;
+  height: 466px;
+}
+.title {
+  font-size: 40px;
+  text-align: center;
+  padding-top: 40px;
+}
+/*****about me****/
+#about-me {
+  width: 1400px;
+  height: 320px;
+}
+p {
+  font-size: 30px;
+  word-spacing: 5px;
+}
+/*****skill*****/
+#skill {
+  width: 1100px;
+  height: 400px;
+  padding-left: 300px;
+  font-size: 25px;
+}
+.skills {
+  float: left;
+  padding-left: 30px;
+  padding-bottom: 50px;
+}
+.strengths {
+  float: right;
+  padding-left: 90px;
+  padding-bottom: 50px;
+}
+/*****work******/
+#work {
+  width: 1400px;
+  height: 800px;
+}
+.jubilee {
+  display: inline-block;
+  float: left;
+  width: 500px;
+}
+.jubilee p h3{
+
+}
+.rogue {
+  float: right;
+  padding-left: 50px;
+  width: 500px;
+  height: 5px;
+}
+.rogue img {
+  height: 500px;
+}
+
+.full-width {
+  float: left;
+}
+
+/*****contact*****/
+#contact {
+  display: inline-block;
+  width: 1400px;
+  height: 400px;
+  background: #b5b1ae;
+  margin: 125px 0px 40px 0px;
+}
+.contact {
+  text-align: center;
+  float: right;
+  width: 700px;
+  height: 400px;
+}
+.contact h2 {
+  font-size: 30px;
+}
+.img {
+  width: 500px;
+  height: 400px;
+  float: left;
+}
